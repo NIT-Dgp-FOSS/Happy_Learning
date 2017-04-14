@@ -1,11 +1,12 @@
-
-Project information 
+*************************
+***Project information***
+*************************
 
 ● Proposal Title: 
 
 A website or an app that showcases the first and last sentences of great novels. It would be a great resource for people who enjoy learning by imitation.
 
-Repository name:  FNL
+Repository name:  First and Last
 
 ● Proposal Abstract: 
 
@@ -23,15 +24,15 @@ o Step 5 :-  A user can give upvotes and comment to the sentences .
 
 
 ● Skill required:
-
-Html, php, javascript, css, mySql.
+Front-End :  html, css, javascript.
+Back-End  :  php, mySql.
 		
 Team member’s information
  	
 Members: 	Vikesh Yadav (github.com/vickxy)
               	Aakanksha (github.com/aakanksha-02)
 
-Email:  		star.vikesh@gmail.com  
+Email:  	star.vikesh@gmail.com  
 
 Mobile:   	9563352067
 
